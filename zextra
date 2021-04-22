@@ -1,0 +1,83 @@
+
+                        <!-- <h6 class="mb-2 pb-1">Gender: </h6>
+      
+                          <div class="form-check form-check-inline">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="inlineRadioOptions"
+                              name="f"
+                              value="f"
+                            />
+                            <label class="form-check-label" for="f">Female</label>
+                          </div>
+      
+                          <div class="form-check form-check-inline">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="inlineRadioOptions"
+                              name="m"
+                              value="m"
+                            />
+                            <label class="form-check-label" for="m">Male</label>
+                          </div>
+      
+                          <div class="form-check form-check-inline">
+                            <input
+                              class="form-check-input"
+                              type="radio"
+                              name="inlineRadioOptions"
+                              name="o"
+                              value="o"
+                            />
+                            <label class="form-check-label" for="o">Other</label>
+                          </div> -->
+
+
+                          <!-- <div class="form-outline datepicker">
+                      <input
+                        type="text"
+                        class="form-control"
+                        id="birthdayDate"
+                      />
+                      <label for="birthdayDate" class="form-label">Birthday</label>
+                    </div> -->
+
+                    <!-- <div class="form-outline">
+                      <input type="email" id="emailAddress" class="form-control" />
+                      <label class="form-label" for="emailAddress">Email</label>
+                    </div> -->
+
+                    <!-- <div class="row">
+                  <div class="col-12">
+
+                    <h6 class="mb-3">Subject</h6>
+
+                    <select class="select" multiple>
+                      <option value="1">One</option>
+                      <option value="2">Two</option>
+                      <option value="3">Three</option>
+                      <option value="4">Four</option>
+                      <option value="5">Five</option>
+                      <option value="6">Six</option>
+                      <option value="7">Seven</option>
+                      <option value="8">Eight</option>
+                    </select>
+                    <label class="form-label select-label">Choose option</label> -->
+
+
+
+
+
+                    <!-- <h3>Update Data</h3>
+
+<form method="POST">
+  <input type="text" name="firstname" value="<?php echo $data['firstname'] ?>" placeholder="Enter First Name" Required>
+  <input type="text" name="lastname" value="<?php echo $data['lastname'] ?>" placeholder="Enter Last Name" Required>
+  <input type="text" name="gender" value="<?php echo $data['gender'] ?>" placeholder="Enter Gender" Required>
+  <input type="text" name="city" value="<?php echo $data['city'] ?>" placeholder="Enter City" Required>
+  <input type="text" name="phone" value="<?php echo $data['phone'] ?>" placeholder="Enter Phone No." Required>
+  <input type="text" name="enrollyear" value="<?php echo $data['enrollyear'] ?>" placeholder="Enter Enroll Year" Required>
+  <input type="submit" name="update" value="Update">
+</form> -->
